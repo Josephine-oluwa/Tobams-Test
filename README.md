@@ -140,10 +140,13 @@ Dependencies
    1. Create a folder 
    2. Create Sub folders and files 
    3. npm i all the dependencies above in your terminal
-   4. npm init y (elements will be added to package.json)
+   4. npm init -y (elements will be added to package.json)
    5. type  "start": "ts-node-dev --respawn index.ts" in package json
    6. npm start
    7. test on your postman
+
+   After Deployment 
+   you use npm run dev to run the server 
 
 
 
